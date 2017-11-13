@@ -1,4 +1,4 @@
-# K-Means
+# K-Means-Clustering
 
 This mini-project is based on the K-Means exercise from 'R in Action' .Go here 
 for the original blog post and solutions
