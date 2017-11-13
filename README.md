@@ -12,4 +12,4 @@ In the file you will find 7 exercises. Complete the code under each sections lab
 Add the file to your Github and submit the link below.
 
 Note: This mini-project has been adapted from from the K-Means exercise in the book R in Action. 
-Feel free to [check out this link] (http://www.r-bloggers.com/k-means-clustering-from-r-in-action/) for more info and solutions.
+Feel free to check out this link (http://www.r-bloggers.com/k-means-clustering-from-r-in-action/) for more info and solutions.
